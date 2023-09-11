@@ -1,5 +1,6 @@
 package test;
 
+import com.codeborne.selenide.SelenideElement;
 import data.DataGenerator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
